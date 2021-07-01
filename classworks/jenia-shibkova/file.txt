@@ -1,0 +1,13 @@
+mkdir jenia-shibkova
+bin
+games
+include
+lib
+lib32
+lib64
+libexec
+libx32
+local
+sbin
+share
+src
