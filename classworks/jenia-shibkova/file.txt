@@ -11,4 +11,6 @@ local
 sbin
 share
 src
+Karina
 Eugenia Shibkova
+Nastya
